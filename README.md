@@ -6,7 +6,7 @@ This repository contains Jupyter/Colab notebooks that runs LLMs on consumer-grad
 ## Models
 This repository contains notebooks running the following models:
 * [Alpaca](https://github.com/adammuhtar/llm-notebooks/blob/main/notebooks/alpaca-lora-7b.ipynb)
-* [Koala](https://github.com/adammuhtar/llm-notebooks/blob/main/notebooks/koala-lora-7b.ipynb)
+* [Koala](https://github.com/adammuhtar/llm-notebooks/blob/main/notebooks/koala-7b.ipynb)
 * [Dolly 2.0](https://github.com/adammuhtar/llm-notebooks/blob/main/notebooks/dolly-v2-3b.ipynb)
 
 ## Getting Started
